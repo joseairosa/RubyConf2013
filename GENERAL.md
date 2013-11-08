@@ -7,3 +7,6 @@
 - What I found out was that no many companies are doing pure pairing work. They simply split the work among the team and sync every now and then. This removed the collab issue, however it doesn't solve it :)
 
 ### Generic ideas
+
+- Separate specific app services into their own services
+- 
